@@ -37,7 +37,9 @@ This dashboard analyzes retail sales data, tracking key performance indicators (
 
 ## 📸 Dashboard Screenshot
 
-![Central Superstore Sales Dashboard](Superstore_Sales_Dashboard.png)
+![Central Superstore Sales Dashboard]
+<img width="1198" height="671" alt="Superstore_Sales_Dashboard" src="https://github.com/user-attachments/assets/4870b920-81b8-43f0-9c1a-e2802ee22291" />
+
 
 ---
 
